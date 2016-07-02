@@ -1,0 +1,23 @@
+{
+  "name": "yukibot",
+  "version": "1.0.0",
+  "description": "future ruler of the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucky7id/yukibot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Brandon Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucky7id/yukibot/issues"
+  },
+  "homepage": "https://github.com/lucky7id/yukibot#readme"
+}
